@@ -39,8 +39,8 @@ As resoluções estão organizadas por **ficha prática**, de forma a facilitar 
 ## 🧑‍🏫 Autor
 
 **Vitor Santos**  
-Coordenador do **CTeSP em Cibersegurança**
-Coordenador Departamento de Engenharia de Software no **CITECA**
+Coordenador do **CTeSP em Cibersegurança**  
+Coordenador Departamento de Engenharia de Software no **CITECA**  
 Professor no **ISTEC Porto**  
 Engenheiro Informático e Investigador
 
